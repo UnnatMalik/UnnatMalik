@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python , Backend development**
 
-- 📄 Know about my experiences [Started my journey with basic C and C++ projects and than came over to Python and currently completing some intermediate topics in python and learned Flet module in python](Started my journey with basic C and C++ projects and than came over to Python and currently completing some intermediate topics in python and learned Flet module in python)
+- 📄 Know about my experiences : Started my journey with basic C and C++ projects and than came over to Python and currently completing some intermediate topics in python and learned Flet module in python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
