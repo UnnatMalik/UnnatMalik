@@ -5,11 +5,12 @@
 
 - 🌱 I’m currently learning **Python , Backend development**
 
-- 📄 Know about my experiences : Started my journey with basic C and C++ projects and than came over to Python and currently completing some intermediate topics in python and learned Flet module in python
+- 📄 Know about my experiences
+  [Started my journey with basic C and C++ projects and than came over to Python and currently completing some intermediate topics in python and learned Flet module in python]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/unnatmalikunnatmalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unnatmalik" height="30" width="40" /></a>
+<a href="https://twitter.com/unnatmalik007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unnatmalik007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
