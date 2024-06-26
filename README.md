@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Unnat Malik</h1>
 <h3 align="center">A computer science student</h3>
 
-- 🔭 I’m currently working on **Pong game And a Food App**
+- 🔭 I’m currently working on **Pandas project**
 
 - 🌱 I’m currently learning **Python , Backend development**
 
