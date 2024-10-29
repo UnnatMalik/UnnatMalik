@@ -55,6 +55,11 @@ Computer science student
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
+
+### Learning progress 
+https://roadmap.sh/card/tall/666c43735a1e5ea6c236ec19?variant=dark&roadmaps=backend
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
