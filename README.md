@@ -57,7 +57,7 @@ Computer science student
 
 
 ### Learning progress 
-https://roadmap.sh/card/tall/666c43735a1e5ea6c236ec19?variant=dark&roadmaps=backend
+[![roadmap.sh](https://roadmap.sh/card/tall/666c43735a1e5ea6c236ec19?variant=dark&roadmaps=backend)](https://roadmap.sh)
 
 
 ### Badges
