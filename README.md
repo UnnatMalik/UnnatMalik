@@ -37,50 +37,49 @@ Computer science student
 * ⚡  I am batman
 
 ### Skills
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+</div>
 
-  <ul>
-                <li>Languages
-                    <ul>
-                        <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-                    </ul>
-                </li>
-                <li>Frameworks/Libraries
-                    <ul>
-                        <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-                        <img width="12" />
-                        <img src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" height="40" alt="Matplotlib"/>
-                    </ul>
-                </li>
-                <li>Tools
-                    <ul>
-                        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-                        <img width="12" />
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-                    </ul>
-                </li>
-                <li>Databases
-                    <ul>
-                        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-                        <img width="12" />
-                        <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-                    </ul>
-                </li>
-</ul>
+###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="40" alt="pytest logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+</div>
+
+###
 
 ### Learning progress 
 [![roadmap.sh](https://roadmap.sh/card/wide/666c43735a1e5ea6c236ec19?variant=dark&roadmaps=backend%2Cpython)](https://roadmap.sh)
