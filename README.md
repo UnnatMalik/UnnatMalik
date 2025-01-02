@@ -37,6 +37,7 @@ Computer science student
 * ⚡  I am batman
 
 ### Skills
+
 ## Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
