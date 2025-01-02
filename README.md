@@ -22,7 +22,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=UnnatMalik.UnnatMalik&"  />
 </div>
 
-###
+##
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Unnat Malik
 ===================================================================================================================================
@@ -83,11 +83,11 @@ Computer science student
 
 ###
 
-### Learning progress 
+## Learning progress 
 [![roadmap.sh](https://roadmap.sh/card/wide/666c43735a1e5ea6c236ec19?variant=dark&roadmaps=backend%2Cpython)](https://roadmap.sh)
 
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
