@@ -58,7 +58,7 @@ Computer science student
   <img width="12" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="40" alt="pytest logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Matplotlib-455AB?logo=matplotlib&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Frajugc%2Fmatplotlib-tutorial&psig=AOvVaw0WGuEy_hoQs5W8LOo0gPT2&ust=1735889207743000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCii6_B1ooDFQAAAAAdAAAAABAP" height="40" alt="css3 logo"  />
 </div>
 
 ### Databases
