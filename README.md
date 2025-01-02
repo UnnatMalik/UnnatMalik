@@ -36,9 +36,9 @@ Computer science student
 * 🧠  I'm learning django
 * ⚡  I am batman
 
-### Skills
+## Skills
 
-## Languages
+### Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
