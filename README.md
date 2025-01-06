@@ -62,7 +62,7 @@ Computer science student
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  /> 
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/14b4bce930459d0ae1b588c01963f9a69a1a8fdce506988f1159e2a1f148b530/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53747265616d6c69742d4646344234423f7374796c653d666c6174266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465 " height="40" alt="Streamlit logo"
+ <img src="https://img.shields.io/badge/Streamlit-red?style=flat-square&logo=streamlit&logoColor=white" height="40" alt="Streamlit" />
 </div>
 
 ### Databases
