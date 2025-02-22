@@ -60,7 +60,7 @@ Computer science student
   <img width="12" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="40" alt="pytest logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Matplotlib-Green?style=for-the-badge&logo=plotly&logoColor=White" height="40" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="40" alt="Matplotlib" />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  /> 
   <img width="12" />
