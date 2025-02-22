@@ -86,7 +86,7 @@ Computer science student
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
   <img width="12" />
-  ![Gemini](https://img.shields.io/badge/Gemini-purple?style=flat-square&logo=Google Gemini&logoColor=blue)
+  <img src="https://img.shields.io/badge/Gemini-purple?style=flat-square&logo=Google Gemini&logoColor=blue" alt="Gemini" />
 </div>
 
 ###
