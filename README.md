@@ -90,7 +90,7 @@ Computer science student
   <img width="12" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Gemini-purple?style=flat-square&logo=Google Gemini&logoColor=blue" height="40" alt="Gemini" />
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" height="40" alt="Gemini" />
 </div>
 
 ###
