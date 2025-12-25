@@ -77,6 +77,17 @@ Computer science student
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
 </div>
 
+### Platforms & DevOps
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
+  <img width="12" />
+</div>
+
 ### Tools
 
 <div align="left">
@@ -91,6 +102,8 @@ Computer science student
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" height="40" alt="Gemini" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/insomnia-5E00D3?logo=insomnia&logoColor=white&style=for-the-badge" height="40" alt="insomnia logo"  />
 </div>
 
 ###
