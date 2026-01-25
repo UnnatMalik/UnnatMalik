@@ -119,6 +119,8 @@ Computer science student
 
 ## Badges
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d65117d2-45a5-4c60-bbf2-36b80ea0731b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <b>My GitHub Stats</b>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=UnnatMalik&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
