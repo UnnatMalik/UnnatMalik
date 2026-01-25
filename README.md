@@ -119,7 +119,12 @@ Computer science student
 
 ## Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d65117d2-45a5-4c60-bbf2-36b80ea0731b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<b> Professional Badges </b>
+<div>
+ <a href="https://www.credly.com/badges/d65117d2-45a5-4c60-bbf2-36b80ea0731b/embedded">
+   <img src="https://github.com/user-attachments/assets/c0561b89-3008-4c06-ad3f-d1e906348021" alt="Credly Badge" width="150">
+ </a>
+</div>
 
 <b>My GitHub Stats</b>
 <div align="center">
